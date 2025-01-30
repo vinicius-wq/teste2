@@ -1,0 +1,89 @@
+@font-face {
+    font-family: food;
+  src: url();
+}
+
+
+
+body{
+  background-color: burlywood;
+font-family: food;
+}
+   
+h1{
+  text-align: center;
+color: chocolate;
+}
+
+.P1{
+    background-color: white;
+    color:gray;
+    width: 80%;
+    margin: auto;
+
+  
+}
+ 
+    .P2{
+        background-color:white;
+        color: gray;
+        width: 80%;
+        margin: auto;
+        margin-left: 8%;
+    }
+
+.P3{
+    background-color: white;
+    color:gray;
+    margin-left: 8%
+ 
+
+}
+
+.P4{
+    background-color: white;
+    color:gray;
+    width:80%;
+    margin-left: 8%;
+  
+ 
+}
+
+.P5{
+    background-color: white;
+    color: gray;
+    width: 80%;
+    margin: auto;
+    margin-left: 8%;
+  
+}
+
+
+.PT{
+    background-color: white;
+    margin: auto;
+   border-radius: 8px;
+ width: 60%;
+
+}
+
+h2{
+    color: orange;
+}
+
+.Nutricao{
+    display: flex;
+  
+}
+
+   
+.img{
+   text-align: center;
+}
+
+@media screen and (max-widht:768px) {
+    .colaborador img{
+        width: 30%;
+    } 
+
+}
